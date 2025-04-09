@@ -58,7 +58,7 @@ This tutorial uses [GitHub Desktop](https://github.com/apps/desktop) and [Visual
 
 ![Screenshot of the GitHub Desktop interface with the mouse cursor hovering over "Open in Visual Studio Code"](https://i.imgur.com/LneVfRM.png)
 
-4. Once Visual Studio Code is open, copy the files from your extracted site `.zip` folder and paste them into the `public` folder
+4. Once Visual Studio Code is open, delete the text file in the `public` folder, then copy the files from your extracted site `.zip` folder and paste them into the `public` folder
 
 > [!NOTE]
 > Everything inside the `public` folder will be the structure of your website. For example, a file located at `public/file.html` will be `username.neocities.org/file.html`, or a file at `public/folder/file.html` will be located at `username.neocities.org/folder/file.html`
